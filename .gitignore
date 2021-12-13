@@ -46,3 +46,5 @@ target/
 
 # clasp
 .clasp.json
+
+.env
